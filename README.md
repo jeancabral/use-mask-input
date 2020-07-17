@@ -1,13 +1,20 @@
 # use-mask-input
 
-[![NPM](https://img.shields.io/npm/v/use-mask-input.svg)](https://www.npmjs.com/package/use-mask-input) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/use-mask-input.svg)](https://www.npmjs.com/package/use-mask-input) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Bundle Size](https://badgen.net/bundlephobia/minzip/use-mask-input)](https://bundlephobia.com/result?p=use-mask-input)
 
 A React Hook for build elegant input masks.
 
+## Todo
+
+- [ ] Enhance bundle sizes
+- [ ] Make tests :P
+- [ ] Better example page with GH pages
+
+
 ## Features
 
-- ✨ Compatible with [React Hook Form](https://github.com/react-hook-form/react-hook-form)
-- 🎯 No complex API
+- ✨  Compatible with [React Hook Form](https://github.com/react-hook-form/react-hook-form)
+- 🎯  No complex API
 
 ## Install
 
